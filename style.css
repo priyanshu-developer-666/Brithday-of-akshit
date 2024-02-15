@@ -1,0 +1,18 @@
+body{
+    background-image: url(Screenshot_20240215-160235_WhatsApp.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: black;
+    padding: 10%;
+}
+
+p{
+    color: blue;
+    text-align: center;
+    font-size: 28px;
+}
+#nony{
+    color: red;
+}
